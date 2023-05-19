@@ -73,7 +73,7 @@ public class Szkola {
     }
 
     public void wyswietlProfile() {
-        for (String profil : profile){
+        for (String profil : profile) {
             System.out.println(profil + " ");
         }
     }
